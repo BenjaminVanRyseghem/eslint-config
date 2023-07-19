@@ -383,7 +383,7 @@ module.exports = {
 		 */
 		"jsdoc/check-alignment": "error",
 		"jsdoc/check-examples": "off",
-		"jsdoc/check-indentation": "error",
+		"jsdoc/check-indentation": "off",
 		"jsdoc/check-param-names": "error",
 		"jsdoc/check-syntax": "error",
 		"jsdoc/check-tag-names": "error",
